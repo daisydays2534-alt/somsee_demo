@@ -416,7 +416,6 @@ position: relative;
 	background-color: #08ffbd;
 	
 
-
 }
 .new_contents .inner3{
 
@@ -447,7 +446,6 @@ position: relative;
 
 		}
 
-
 	.contents_name{
 	
 	width: 100%;
@@ -456,14 +454,12 @@ position: relative;
 	justify-content: space-around;
 	margin: 50px 0;
 	
-  
-}
+  }
   .contents_name .item{
 	width:380px;
 	font-size: 20px;
 	font-weight: 700;
 	
-
 			}
 
 
